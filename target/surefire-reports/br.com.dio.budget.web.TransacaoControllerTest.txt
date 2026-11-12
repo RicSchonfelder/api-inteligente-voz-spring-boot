@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.com.dio.budget.web.TransacaoControllerTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.85 s -- in br.com.dio.budget.web.TransacaoControllerTest

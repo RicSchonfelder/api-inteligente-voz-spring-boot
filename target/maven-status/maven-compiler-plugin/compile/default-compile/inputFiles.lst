@@ -1,0 +1,10 @@
+/home/schon/projects/api-inteligente-voz-spring-boot/src/main/java/br/com/dio/budget/web/dto/TransacaoRequest.java
+/home/schon/projects/api-inteligente-voz-spring-boot/src/main/java/br/com/dio/budget/ApiApplication.java
+/home/schon/projects/api-inteligente-voz-spring-boot/src/main/java/br/com/dio/budget/repository/TransacaoRepository.java
+/home/schon/projects/api-inteligente-voz-spring-boot/src/main/java/br/com/dio/budget/web/TransacaoController.java
+/home/schon/projects/api-inteligente-voz-spring-boot/src/main/java/br/com/dio/budget/domain/Transacao.java
+/home/schon/projects/api-inteligente-voz-spring-boot/src/main/java/br/com/dio/budget/service/AssistenteFinanceiro.java
+/home/schon/projects/api-inteligente-voz-spring-boot/src/main/java/br/com/dio/budget/service/SinteseVozService.java
+/home/schon/projects/api-inteligente-voz-spring-boot/src/main/java/br/com/dio/budget/service/TranscricaoService.java
+/home/schon/projects/api-inteligente-voz-spring-boot/src/main/java/br/com/dio/budget/web/dto/TransacaoResponse.java
+/home/schon/projects/api-inteligente-voz-spring-boot/src/main/java/br/com/dio/budget/domain/TipoTransacao.java

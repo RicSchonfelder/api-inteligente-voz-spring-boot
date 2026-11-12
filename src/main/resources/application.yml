@@ -1,0 +1,28 @@
+spring:
+  application:
+    name: api-inteligente-voz-spring-boot
+  datasource:
+    url: jdbc:h2:mem:budgetdb;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=FALSE
+    driver-class-name: org.h2.Driver
+    username: sa
+    password:
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: false
+  ai:
+    openai:
+      api-key: ${OPENAI_API_KEY:demo-key}
+      chat:
+        options:
+          model: gpt-4o-mini
+      audio:
+        transcription:
+          options:
+            model: whisper-1
+        speech:
+          options:
+            model: tts-1
+            voice: alloy
+server:
+  port: 8080
